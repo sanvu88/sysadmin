@@ -79,8 +79,5 @@ echo '########### Bảng thống kê máy chủ dành cho SYSTEM ADMIN LINUX SER
 '"$column"'
 
 Cám ơn bạn đã sử dụng!'  
-
-
-
 a=a;
 done
